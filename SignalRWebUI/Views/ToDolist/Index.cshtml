@@ -1,0 +1,263 @@
+﻿@model List<ResultToDoListDto>
+@{
+   ViewData["Title"] = "Index";
+   Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<style>
+   .completed-task {
+      text-decoration: line-through;
+   }
+</style>
+
+
+
+<div style="margin-top:80px"></div>
+<div class="row row-card-no-pd my-2" style="margin:0px 10px">
+
+   <p style="display:flex;  text-align: center; font-size: 25px; font-weight: bold; margin-left:50px" class="fw-bold mt-1">Admin İstatistik & Durum</p>
+
+</div>
+
+<div class="row row-card-no-pd" style="margin:0px 12px">
+   <script type="text/javascript">
+
+      $(document).ready(() => {
+
+         var connection = new signalR.HubConnectionBuilder().withUrl("http://localhost:5013/signalrhub").build();
+         $("#connstatus").text(connection.state);
+         connection.start().then(() => {
+            $("#connstatus").text(connection.state);
+            setInterval(() => {
+               connection.invoke("SendProgress");
+            }, 1000);
+         }).catch((err) => { console.log(err) });
+
+
+         connection.on("ReceiveSafeByTotalPrice", (value) => {
+            $("#SafeByTotalPrice").text(value);
+         });
+
+
+         connection.on("ReceiveTotalPriceToday", (value2) => {
+            $("#TotalPriceToday").text(value2);
+         });
+
+         connection.on("ReceiveOrderCountTotal", (value3) => {
+            $("#OrderCountTotal").text(value3);
+         });
+
+
+      });
+   </script>
+
+   <div class="col-md-3">
+      <div class="card">
+         <div class="card-body">
+            <p class="fw-bold mt-1">Kasa Bakiye</p>
+            <h4 id="SafeByTotalPrice"><b></b></h4>
+            <a href="/Order/CreateOrder/" class="btn btn-primary btn-full text-left mt-3 mb-3"><i class="la la-plus"></i> Yeni Sipariş</a>
+         </div>
+         <div class="card-footer">
+            <ul class="nav">
+               <li class="nav-item"><a class="btn btn-default btn-link" href="/Order/Index/"><i class="la la-history"></i> Siparişler</a></li>
+               <li class="nav-item ml-auto"><a class="btn btn-default btn-link" href="/ToDolist/Index"><i class="la la-refresh"></i> Sayfa Yenile</a></li>
+            </ul>
+         </div>
+      </div>
+   </div>
+   <div class="col-md-6">
+      <div class="card">
+         <div class="card-body">
+            <div class="progress-card">
+               <div class="d-flex justify-content-between mb-1">
+                  <span class="text-muted">Profit</span>
+                  <span class="text-muted fw-bold"> $3K</span>
+               </div>
+               <div class="progress mb-2" style="height: 7px;">
+                  <div class="progress-bar bg-success" role="progressbar" style="width: 78%" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="top" title="78%"></div>
+               </div>
+            </div>
+            <div class="progress-card">
+               <div class="d-flex justify-content-between mb-1">
+                  <span class="text-muted">Orders</span>
+                  <span class="text-muted fw-bold"> 576</span>
+               </div>
+               <div class="progress mb-2" style="height: 7px;">
+                  <div class="progress-bar bg-info" role="progressbar" style="width: 65%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="top" title="65%"></div>
+               </div>
+            </div>
+            <div class="progress-card">
+               <div class="d-flex justify-content-between mb-1">
+                  <span class="text-muted">Tasks Complete</span>
+                  <span class="text-muted fw-bold"> 70%</span>
+               </div>
+               <div class="progress mb-2" style="height: 7px;">
+                  <div class="progress-bar bg-primary" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="top" title="70%"></div>
+               </div>
+            </div>
+            <div class="progress-card">
+               <div class="d-flex justify-content-between mb-1">
+                  <span class="text-muted">Open Rate</span>
+                  <span class="text-muted fw-bold"> 60%</span>
+               </div>
+               <div class="progress mb-2" style="height: 7px;">
+                  <div class="progress-bar bg-warning" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" data-toggle="tooltip" data-placement="top" title="60%"></div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="col-md-3">
+      <div class="card card-stats">
+         <div class="card-body">
+            <p class="fw-bold mt-1">Bugün</p>
+            <div class="row">
+               <div class="col-5">
+                  <div class="icon-big text-center icon-warning">
+                     <i class="la la-pie-chart text-warning"></i>
+                  </div>
+               </div>
+               <div class="col-7 d-flex align-items-center">
+                  <div class="numbers">
+                     <p class="card-category">Ciro</p>
+                     <h4 class="card-title" id="TotalPriceToday"></h4>
+                  </div>
+               </div>
+            </div>
+            <hr />
+            <div class="row">
+               <div class="col-5">
+                  <div class="icon-big text-center">
+                     <i class="la la-heart-o text-primary"></i>
+                  </div>
+               </div>
+               <div class="col-7 d-flex align-items-center">
+                  <div class="numbers">
+                     <p class="card-category"> Sipariş</p>
+                     <h4 class="card-title" id="OrderCountTotal"></h4>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+
+
+
+@* @await Component.InvokeAsync("_ToDoListAppComponentsPartial") *@
+
+<div class="col-md-12" style="margin-top:6px">
+   <div class="card card-tasks">
+      <div class="card-header ">
+         <h4 class="card-title">Yapılacaklar Listesi</h4>
+         <p class="card-category"></p>
+      </div>
+      <div class="card-body ">
+         <div class="table-full-width">
+            <table class="table" >
+               <thead >
+                  <tr style="background-color:#FAFAFA">
+                     <th>
+                        <div class="form-check">
+                           <label class="form-check-label">
+                              <input class="form-check-input select-all-checkbox" type="checkbox" data-select="checkbox" data-target=".task-select">
+                              <span class="form-check-sign"></span>
+                           </label>
+                        </div>
+                     </th>
+                     <th>Görev Başlığı</th>
+                     <th>Görev Açıklaması</th>
+                     <th style="float:right; margin-right:15px">İşlemler</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  @if (Model != null && Model.Any())
+                  {
+                     @foreach (var item in Model)
+                     {
+                        <tr>
+                           <td>
+                              <div class="form-check">
+                                 <label class="form-check-label">
+                                    <input class="form-check-input task-select" type="checkbox">
+                                    <span class="form-check-sign"></span>
+                                 </label>
+                              </div>
+                           </td>
+                           <td>@item.Title</td>
+                           <th>@item.Description</th>
+                           <td class="td-actions text-right">
+                              <div class="form-button-action">
+                                 <a href="/ToDolist/UpdateToDolist/@item.ID" class="btn btn-link btn-simple-primary">
+                                    <i class="la la-edit"></i>
+                                 </a>
+                                 <a href="/ToDolist/DeleteToDolist/@item.ID" title="Remove" class="btn btn-link btn-simple-danger">
+                                    <i class="la la-times"></i>
+                                 </a>
+                              </div>
+                           </td>
+                        </tr>
+                     }
+                  }
+                  else
+                  {
+                     <tr>
+                        <td colspan="4" class="text-center">
+                           <strong>LİSTENİZ BOŞ</strong>
+                        </td>
+                     </tr>
+                  }
+               </tbody>
+            </table>
+
+         </div>
+      </div>
+
+
+      <div class="card-footer ">
+         <div class="stats d-flex justify-content-between">
+
+            <p>@ViewBag.MinutesAgo saniye önce değişiklik yapıldı</p>
+
+            <a href="/ToDolist/CreateToDolist/" class="btn btn-info fw-100">Ekle</a>
+
+         </div>
+      </div>
+   </div>
+</div>
+
+
+
+<script>
+   $(document).ready(function () {
+      // Select all checkboxes with class 'task-select'
+      $('.task-select').on('click', function () {
+         // Find the closest 'tr' element and toggle the 'completed-task' class
+         $(this).closest('tr').toggleClass('completed-task');
+      });
+
+      // 'Select All' functionality
+      $('.select-all-checkbox').on('click', function () {
+         // If 'Select All' is checked
+         if ($(this).is(':checked')) {
+            // Check all checkboxes with class 'task-select' and add 'completed-task' class
+            $('.task-select').prop('checked', true).closest('tr').addClass('completed-task');
+         } else {
+            // Uncheck all checkboxes and remove 'completed-task' class
+            $('.task-select').prop('checked', false).closest('tr').removeClass('completed-task');
+         }
+      });
+   });
+</script>

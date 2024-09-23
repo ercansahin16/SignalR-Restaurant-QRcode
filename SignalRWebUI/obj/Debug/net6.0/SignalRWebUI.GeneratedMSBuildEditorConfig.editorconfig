@@ -1,0 +1,287 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SignalRWebUI
+build_property.RootNamespace = SignalRWebUI
+build_property.ProjectDir = C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRWebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRWebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/About/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQ3JlYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/About/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcVXBkYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/AdminLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Booking/CreateBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xDcmVhdGVCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Booking/UpdateBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xVcGRhdGVCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Category/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Category/DetailsCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlsc0NhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Category/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Contact/CreateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDcmVhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Contact/UpdateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVcGRhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Discount/CreateDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRcQ3JlYXRlRGlzY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Discount/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Discount/UpdateDiscount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRcVXBkYXRlRGlzY291bnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Feature/CreateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxDcmVhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Feature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Feature/UpdateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxVcGRhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Product/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Product/DetailsProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Product/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/ProgressBars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3Jlc3NCYXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/ShowAddAjaxComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvd0FkZEFqYXhDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_IULayoutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0lVTGF5b3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_LayoutFooterComponentsPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEZvb3RlckNvbXBvbmVudHNQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_LayoutNavbarComponentsPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dE5hdmJhckNvbXBvbmVudHNQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_LayoutScriptsComponentsPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNjcmlwdHNDb21wb25lbnRzUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_LayoutSidebarComponentsPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNpZGViYXJDb21wb25lbnRzUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_LyaoutHeaderPartialComponents/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0x5YW91dEhlYWRlclBhcnRpYWxDb21wb25lbnRzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_Section1ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlY3Rpb24xQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_Section2ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlY3Rpb24yQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_Section31ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlY3Rpb24zMUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_Section32ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlY3Rpb24zMkNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_Section33ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlY3Rpb24zM0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_Section3ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlY3Rpb24zQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_Section4ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlY3Rpb240Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_Section5ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlY3Rpb241Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_Section6ComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlY3Rpb242Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_UILayoutFooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJTGF5b3V0Rm9vdGVyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_UILayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJTGF5b3V0TmF2YmFyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_UILayoutScriptsComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJTGF5b3V0U2NyaXB0c0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Components/_UILayoutSpinnerComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJTGF5b3V0U3Bpbm5lckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/SignalRDefault/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbmFsUkRlZmF1bHRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/SignalRDefault/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbmFsUkRlZmF1bHRcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/SocialMedia/CreateSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcQ3JlYXRlU29jaWFsTWVkaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/SocialMedia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/SocialMedia/UpdateSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcVXBkYXRlU29jaWFsTWVkaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Statistik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGlrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Testimonial/CreateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcQ3JlYXRlVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Testimonial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Testimonial/UpdateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcVXBkYXRlVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/ToDolist/CreateToDolist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb2xpc3RcQ3JlYXRlVG9Eb2xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/ToDolist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb2xpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/ToDolist/UpdateToDolist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb2xpc3RcVXBkYXRlVG9Eb2xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/UIDefault/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlEZWZhdWx0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/UILayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlMYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/UIMenu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlNZW51XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/esahi/source/repos/MuratYucedag/QR_Code_Order_Management/SignalRWebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-65dvzr1ubd

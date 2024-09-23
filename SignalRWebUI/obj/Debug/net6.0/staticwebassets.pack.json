@@ -1,0 +1,1345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SignalRWebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SignalRWebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\LICENSE",
+      "PackagePath": "staticwebassets\\007 Ready"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\README.md",
+      "PackagePath": "staticwebassets\\007 Ready\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\css\\ready.css",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\css\\ready.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\css\\ready.css.map",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\css\\ready.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\css\\ready.min.css",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\css\\ready.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\img\\menu.png",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\img\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\img\\menu2.png",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\img\\menu2.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\ready.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\ready.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\js\\ready.min.js",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\js\\ready.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\_background.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\_components.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\_layouts.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\_line-awesome.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\_line-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\_outlinefocus.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\_outlinefocus.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\_plugins.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\_plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\_responsive.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\_typography.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\_variables.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_alerts.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_charts.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_inputs.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_maps.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_modals.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_navpills.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_navpills.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_navsearch.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_navsearch.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_paginations.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_paginations.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_sliders.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_sliders.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\plugins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\plugins\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\plugins\\_jqueryui.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\plugins\\_jqueryui.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\assets\\sass\\ready\\plugins\\_toggle.scss",
+      "PackagePath": "staticwebassets\\007 Ready\\assets\\sass\\ready\\plugins\\_toggle.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\components.html",
+      "PackagePath": "staticwebassets\\007 Ready\\components.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\forms.html",
+      "PackagePath": "staticwebassets\\007 Ready\\forms.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\icons.html",
+      "PackagePath": "staticwebassets\\007 Ready\\icons.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\index.html",
+      "PackagePath": "staticwebassets\\007 Ready\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\notifications.html",
+      "PackagePath": "staticwebassets\\007 Ready\\notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\tables.html",
+      "PackagePath": "staticwebassets\\007 Ready\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\typography.html",
+      "PackagePath": "staticwebassets\\007 Ready\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\007 Ready\\İcons\\trash3-fill.svg",
+      "PackagePath": "staticwebassets\\007 Ready\\İcons\\trash3-fill.svg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\book.html",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\book.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\css\\style.scss",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\client1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\client2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\f1.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\f2.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\f3.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\f4.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f4.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\f5.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f5.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\f6.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f6.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\f7.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f7.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\f8.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f8.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\f9.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\f9.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\o1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\o2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\js\\custom.js",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\feane-1.0.0\\menu.html",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\menu.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\.gitattributes",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\booking.html",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\booking.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\bootstrap-restaurant-template.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\bootstrap-restaurant-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\contact.html",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\Brunch\\1.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\Brunch\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\Brunch\\2.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\Brunch\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\Brunch\\3.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\Brunch\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\Brunch\\4.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\Brunch\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\Brunch\\5.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\Brunch\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\Brunch\\6.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\Brunch\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\Brunch\\7.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\Brunch\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\Brunch\\8.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\Brunch\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\hamburger-31775_1280.png",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\hamburger-31775_1280.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\hamburger1.png",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\hamburger1.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\hero.png",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\istockphoto-1482265636-640_adpp_is.mp4",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\istockphoto-1482265636-640_adpp_is.mp4"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\menu-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\menu-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\shot on.mp4",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\shot on.mp4"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\img\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\js\\main.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\menu.html",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\menu.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\service.html",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\team.html",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\esahi\\source\\repos\\MuratYucedag\\QR_Code_Order_Management\\SignalRWebUI\\wwwroot\\restoran-1.0.0\\testimonial.html",
+      "PackagePath": "staticwebassets\\restoran-1.0.0\\testimonial.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SignalRWebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SignalRWebUI.props",
+      "PackagePath": "build\\SignalRWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRWebUI.props",
+      "PackagePath": "buildMultiTargeting\\SignalRWebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SignalRWebUI.props",
+      "PackagePath": "buildTransitive\\SignalRWebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

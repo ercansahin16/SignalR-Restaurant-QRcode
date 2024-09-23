@@ -1,0 +1,58 @@
+﻿@using SignalRDataAccessLayer.Concrete
+@model DetailsProductDto
+@{
+   ViewData["Title"] = "DetailsProduct";
+   Layout = "~/Views/AdminLayout/Index.cshtml";
+   SignalRContext context = new SignalRContext();
+   int count = 0;
+}
+<div style="padding-top:20px"></div>
+
+
+<div style="padding-top:100px"></div>
+<div class="card">
+   <div class="card-header">
+      @* Geri Dön Tuşu *@
+      <div style="margin-bottom: 30px">
+         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+         <a href="/Category/Index/">
+            <i class="fa fa-chevron-left " style="font-size:18px"><span class="mx-3">Geri Dön</span> </i>
+         </a>
+      </div>
+      <div class="card-title">Ürün Detayi</div>
+   </div>
+   <div class="card-body">
+
+      <table class="table table-striped mt-3">
+         <thead>
+            <tr>
+               <th scope="col">Ürün ID</th>
+               <th scope="col">Ürün Adı</th>
+               <th scope="col">Ürün Fiyatı</th>
+               <th scope="col">Ürün Açıklaması</th>
+               <th scope="col">Ürün Resmi</th>
+               <th scope="col">Ürün Durumu</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr>
+               <td>@{
+                     count++;   
+                  }
+                  @count</td>
+               <td>@Model.ProductName</td>
+               <td>@Model.Price</td>
+               <td>@Model.Description</td>
+               <td>@Model.ImageUrl</td>
+               <td>
+                  @{
+                     var Durum = Model.ProductStatus == true ? "Aktif" : "Pasif";
+                    
+                  }
+                  @Durum
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+</div>

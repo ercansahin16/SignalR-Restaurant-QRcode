@@ -1,0 +1,21 @@
+﻿--CategoryCount
+--ProductCount
+--AktifKategorı Sayısı
+--pasifKategori Sayısı
+
+
+--Kategori adına göre ürün sayısı 1 = içecek    ProductCountByCategoryNameDrink
+--Kategori adına göre ürün sayısı 2 = hamburger ProductCountByCategoryNameHamburger()
+
+--Ortalama Fiyat   ProductPriceAvg
+--En Yüksek Fiyatlı ürün  ProductNamePriceMax();
+--Hamburgerin ortalama fiyatı =ProductHamburgerAvg
+
+--Toplam alınan Sipariş sayısı =  OrderCountTotal
+--Aktif masa sayısı = ActiveTable
+--Son sipariş tutarı =LastOrderPrice
+--Kasadaki tutar = SafeByTotalPrice();
+--Bügünkü Toplam PAra =TotalPriceToday
+--masa sayısı =TableCount
+
+--bügünki toplam sipariş = OrderByTodayCount

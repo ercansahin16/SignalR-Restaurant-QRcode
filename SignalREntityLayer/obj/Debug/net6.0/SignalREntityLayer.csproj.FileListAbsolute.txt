@@ -1,0 +1,11 @@
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\bin\Debug\net6.0\SignalREntityLayer.deps.json
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\bin\Debug\net6.0\SignalREntityLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\bin\Debug\net6.0\SignalREntityLayer.pdb
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\obj\Debug\net6.0\SignalREntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\obj\Debug\net6.0\SignalREntityLayer.AssemblyInfoInputs.cache
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\obj\Debug\net6.0\SignalREntityLayer.AssemblyInfo.cs
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\obj\Debug\net6.0\SignalREntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\obj\Debug\net6.0\SignalREntityLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\obj\Debug\net6.0\refint\SignalREntityLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\obj\Debug\net6.0\SignalREntityLayer.pdb
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalREntityLayer\obj\Debug\net6.0\ref\SignalREntityLayer.dll

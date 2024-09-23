@@ -1,0 +1,64 @@
+﻿@model CreateFeatureDto
+@{
+   ViewData["Title"] = "CreateFeature";
+   Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="content">
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-md-12">
+            <form method="post">
+               <div class="card">
+                  <div class="card-header">
+
+                     @* Geri Dön Tuşu *@
+                     <div style="margin-bottom: 30px">
+                        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                        <a href="/Feature/Index/">
+                           <i class="fa fa-chevron-left " style="font-size:18px"><span class="mx-3">Geri Dön</span> </i>
+                        </a>
+                     </div>
+
+
+
+
+
+                     <div class="card-title">Öne Çıkan Alan Güncelleme</div>
+                  </div>
+                  <div class="card-body">
+                     <div class="form-group">
+                        <label for="email">1.Başlık Giriniz: </label>
+                        <input type="text" class="form-control" id="email" asp-for="Title1">
+                     </div>
+                     <div class="form-group">
+                        <label for="email">1.Açıklama Giriniz: </label>
+                        <input type="text" class="form-control" id="email" asp-for="Description1">
+                     </div>
+                     <div class="form-group">
+                        <label for="email">2.Başlık Giriniz: </label>
+                        <input type="text" class="form-control" id="email" asp-for="Title2">
+                     </div>
+                     <div class="form-group">
+                        <label for="email">2.Açıklama Giriniz: </label>
+                        <input type="text" class="form-control" id="email" asp-for="Description2">
+                     </div>
+                     <div class="form-group">
+                        <label for="email">3.Başlık Giriniz: </label>
+                        <input type="text" class="form-control" id="email" asp-for="Title3">
+                     </div>
+                     <div class="form-group">
+                        <label for="email">3.Açıklama Giriniz: </label>
+                        <input type="text" class="form-control" id="email" asp-for="Description3">
+                     </div>
+                     <button class="btn btn-info w-100 fw-bold " style=" letter-spacing:5px">Ekle</button>
+                     <br /> <br />
+
+                  </div>
+               </div>
+            </form>
+
+         </div>
+      </div>
+   </div>
+</div>

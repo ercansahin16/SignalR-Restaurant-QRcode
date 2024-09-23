@@ -1,0 +1,11 @@
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\bin\Debug\net6.0\SignalRDtoLayer.deps.json
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\bin\Debug\net6.0\SignalRDtoLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\bin\Debug\net6.0\SignalRDtoLayer.pdb
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\obj\Debug\net6.0\SignalRDtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\obj\Debug\net6.0\SignalRDtoLayer.AssemblyInfoInputs.cache
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\obj\Debug\net6.0\SignalRDtoLayer.AssemblyInfo.cs
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\obj\Debug\net6.0\SignalRDtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\obj\Debug\net6.0\SignalRDtoLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\obj\Debug\net6.0\refint\SignalRDtoLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\obj\Debug\net6.0\SignalRDtoLayer.pdb
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDtoLayer\obj\Debug\net6.0\ref\SignalRDtoLayer.dll

@@ -1,0 +1,22 @@
+﻿
+
+
+
+<script>
+   function showAdd(event, value) {
+      event.preventDefault();//Butona tıklanınca aynı yerde durmasını sağlar. davranısı engeller.
+      var id = value;
+      $.ajax({
+         type: 'post',
+         data: { item: id },
+         contentType: 'application/json',
+         success: function () {
+            swal("Sepete Eklendi.!") //--https://sweetalert.js.org/guides/ sweetalert
+         }
+      });
+
+
+   };
+
+</script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script> @* Sweetalert cdn *@

@@ -1,0 +1,28 @@
+﻿@{
+   Layout = null;
+   //UI Layout İndexi
+}
+<!DOCTYPE html>
+<html lang="en">
+@await Component.InvokeAsync("_IULayoutComponentPartial")
+<body>
+   <div class="container-xxl bg-white p-0">
+      <!-- Spinner Start -->
+      @await Component.InvokeAsync("_UILayoutSpinnerComponentPartial")
+      <!-- Spinner End -->
+      <!-- Navbar & Hero Start -->
+      @await Component.InvokeAsync("_UILayoutNavbarComponentPartial")
+      @RenderBody()
+      <!-- Navbar & Hero End -->
+      <!-- Reservation Start -->
+      <!-- Reservation Start -->
+      <!-- Footer Start -->
+      @await Component.InvokeAsync("_UILayoutFooterComponentPartial")
+      <!-- Footer End -->
+      <!-- Back to Top -->
+   </div>
+   <!-- JavaScript Libraries -->
+   @await Component.InvokeAsync("_UILayoutScriptsComponentPartial")
+</body>
+
+</html>

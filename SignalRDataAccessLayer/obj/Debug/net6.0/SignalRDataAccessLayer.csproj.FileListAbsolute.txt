@@ -1,0 +1,17 @@
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\bin\Debug\net6.0\SignalRDataAccessLayer.deps.json
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\bin\Debug\net6.0\SignalRDataAccessLayer.runtimeconfig.json
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\bin\Debug\net6.0\SignalRDataAccessLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\bin\Debug\net6.0\SignalRDataAccessLayer.pdb
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\bin\Debug\net6.0\SignalREntityLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\bin\Debug\net6.0\SignalREntityLayer.pdb
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\SignalRDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\SignalRDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\SignalRDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\SignalRDataAccessLayer.AssemblyInfo.cs
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\SignalRDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\SignalRD.ECD00C3E.Up2Date
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\SignalRDataAccessLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\refint\SignalRDataAccessLayer.dll
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\SignalRDataAccessLayer.pdb
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\SignalRDataAccessLayer.genruntimeconfig.cache
+C:\Users\esahi\source\repos\MuratYucedag\QR_Code_Order_Management\SignalRDataAccessLayer\obj\Debug\net6.0\ref\SignalRDataAccessLayer.dll

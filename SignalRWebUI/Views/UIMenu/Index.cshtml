@@ -1,0 +1,101 @@
+﻿@{
+   ViewData["Title"] = "Index";
+   Layout = null;
+}
+
+@await Component.InvokeAsync("_IULayoutComponentPartial")
+<div class="container-xxl bg-white p-0">
+   <!-- Spinner Start -->
+   <div class="container-xxl position-relative p-0">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5  py-lg-0">
+         <a href="" class="navbar-brand p-0">
+            <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Restorant</h1>
+            @*    <img src="~/restoran-1.0.0/img/about-1.jpg" alt="Logo"> *@
+         </a>
+         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="fa fa-bars"></span>
+         </button>
+         <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto py-0 pe-4">
+               <a href="/UIDefault/Index/" class="nav-item nav-link">Anasayfa</a>
+               <a href="/UIAbout/Index/" class="nav-item nav-link">Hakkımızda</a>
+               <a href="/UIServices/Index/" class="nav-item nav-link">Hizmetler</a>
+               <a href="/UIMenu/Index/" class="nav-item nav-link">Menü</a>
+               <div class="nav-item dropdown">
+                  <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Bilgi</a>
+                  <div class="dropdown-menu m-0">
+                     <a href="/UIBookATable/Index/" class="dropdown-item active">Rezervasyon</a>
+                     <a href="#" class="dropdown-item">Ekibimiz</a>
+                     <a href="#" class="dropdown-item">Referanslar</a>
+                  </div>
+               </div>
+               <a href="/UIContact/Index/" class="nav-item nav-link">İletişim</a>
+            </div>
+            <a href="/UIMenu/Index/" class="btn btn-primary py-2 px-4">Sipariş Verin</a>
+         </div>
+      </nav>
+      @* <div class="container-xxl py-5 bg-dark hero-header mb-5">
+      <div class="container text-center my-5 pt-5 pb-4">
+      <nav aria-label="breadcrumb">
+      <img src="~/restoran-1.0.0/img/hamburger1.png" alt="Alternate Text" style="width:300px; height:200px" />
+      </nav>
+      </div>
+      </div> *@
+      <div class="container-xxl py-5 bg-dark hero-header mb-5" style="height:55px">
+         <div class="container my-5 py-5">
+            <div class="row align-items-center g-5">
+
+               <div class="col-lg-7 text-center text-lg-end overflow-hidden">
+                  <img class="img-fluid" src="~/restoran-1.0.0/img/hamburger1.png" width="150px" alt="">
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <!-- Menu Start -->
+   <div class="container-xxl py-5" style="margin-top:175px">
+      <div class="container">
+         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Yemek Menüsü</h5>
+            <h1 class="mb-5">En Popüler Yemekler</h1>
+         </div>
+         <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
+            <ul class="nav nav-pills d-inline-flex justify-content-center border-bottom mb-5">
+               <li class="nav-item">
+                  <a class="d-flex align-items-center text-start mx-3 ms-0 pb-3 active" data-bs-toggle="pill" href="#tab-1">
+                     <i class="fa fa-coffee fa-2x text-primary"></i>
+                     <div class="ps-3">
+                        <h6 class="mt-n1 mb-0">Brunch</h6>
+                     </div>
+                  </a>
+               </li>
+               <li class="nav-item">
+                  <a class="d-flex align-items-center text-start mx-3 pb-3" data-bs-toggle="pill" href="#tab-2">
+                     <i class="fa fa-hamburger fa-2x text-primary"></i>
+                     <div class="ps-3">
+                        <h6 class="mt-n1 mb-0">Öğle Yemeği</h6>
+                     </div>
+                  </a>
+               </li>
+               <li class="nav-item">
+                  <a class="d-flex align-items-center text-start mx-3 me-0 pb-3" data-bs-toggle="pill" href="#tab-3">
+                     <i class="fa fa-utensils fa-2x text-primary"></i>
+                     <div class="ps-3">
+                        <h6 class="mt-n1 mb-0">Akşam Yemeği</h6>
+                     </div>
+                  </a>
+               </li>
+             
+            </ul>
+            <div class="tab-content">
+               @await Component.InvokeAsync("_Section31ComponentPartial")
+               @await Component.InvokeAsync("_Section32ComponentPartial")
+               @await Component.InvokeAsync("_Section33ComponentPartial")
+            </div>
+         </div>
+      </div>
+   </div>
+   <!-- Menu End -->
+</div>
+@await Component.InvokeAsync("_UILayoutFooterComponentPartial")
+@await Component.InvokeAsync("_UILayoutScriptsComponentPartial")

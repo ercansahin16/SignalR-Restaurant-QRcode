@@ -1,0 +1,30 @@
+﻿@model List<ResultLauncheDto>
+
+
+
+
+   <div id="tab-2" class="tab-pane fade show p-0">
+      <div class="row g-4">
+          @foreach (var item in Model)
+            {
+         <div class="col-lg-12">
+            <div class="d-flex align-items-center">
+           
+               <img class="flex-shrink-0 img-fluid rounded" src="@item.ImageUrl" alt="" style="width: 80px;">
+               <div class="w-100 d-flex flex-column text-start ps-4">
+                  <h5 class="d-flex justify-content-between border-bottom pb-2">
+                     <span>@item.Title</span>
+                     <span class="text-primary">@item.Price  ₺ <a href="javascript:void(0)" onclick="showAdd(event, @item.LaunchID)"><small style="margin-left:30px;background-color:orange;border-radius:10px;padding:4px 8px;color:#000;font-size:15px">Sepete Ekle</small> </a></span>
+                  </h5>
+                  <small class="fst-italic">@item.Description</small>
+               </div>
+           
+            </div>
+         </div>
+      }
+      </div>
+   </div>
+
+
+
+@await Component.InvokeAsync("ShowAddAjaxComponentPartial")

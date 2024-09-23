@@ -1,0 +1,75 @@
+﻿@model List<ResultFeatureDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+   int count = 0;
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="content">
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="card">
+               <div class="card-header">
+                  <div class="card-title">Öne Çıkanlar Listesi</div>
+               </div>
+               <div class="card-body">
+                  <div class="card-sub">
+                     Öne Çıkanlar ile ilgili İşlemler :
+                  </div>
+                  <table class="table mt-3">
+                     <thead>
+                        <tr>
+                           <th scope="col">#</th>
+                           <th scope="col">Başlık1</th>
+                           <th scope="col">Açıklama1</th>
+                           <th scope="col">Başlık2</th>
+                           <th scope="col">Açıklama2</th>
+                           <th scope="col">Başlık3</th>
+                           <th scope="col">Açıklama3</th>
+                           <th scope="col" class="d-flex justify-content-center">İşlemler</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        @foreach (var item in Model)
+                        {
+                           count++;
+                           <tr>
+                              <th>@count</th>
+                              <td>@item.Title1</td>
+                              <td>@item.Description1</td>
+                              <td>@item.Title2</td>
+                              <td>@item.Description2</td>
+                              <td>@item.Title3</td>
+                              <td>@item.Description3</td>
+                            @*   <td>
+                                 @{
+                                    var Durum = item.CategoryStatus == true ? "Aktif" : "Pasif";
+                                 }
+                                 @Durum
+                              </td> *@
+                              <td class="d-flex justify-content-center">
+
+                                 <a href="/Feature/DeleteFeature/@item.FeatureID" class="btn fw-bold" title="Sil">
+                                    <i class="fa fa-trash-o" style="font-size:24px"></i>
+                                 </a>
+
+                                 <a href="/Feature/UpdateFeature/@item.FeatureID" class="btn fw-bold" title="Düzelt">
+                                    <i class="fa fa-pencil" style="font-size:24px"></i>
+                                 </a>
+
+                             
+
+                              </td>
+                           </tr>
+                        }
+                     </tbody>
+                  </table>
+                  <a href="/Feature/CreateFeature/" class="btn btn-info w-100 fw-bold " style=" letter-spacing:5px">Yeni Öne çıkan  Ekle</a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,978 @@
+[
+  {
+    "ContainingType": "SignalRApi.Controllers.AboutController",
+    "Method": "ListAbout",
+    "RelativePath": "api/About",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.AboutController",
+    "Method": "CreateAbout",
+    "RelativePath": "api/About",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createAboutDto",
+        "Type": "SignalRDtoLayer.AboutDto.CreateAboutDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.AboutController",
+    "Method": "UpdateAbout",
+    "RelativePath": "api/About",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateAboutDto",
+        "Type": "SignalRDtoLayer.AboutDto.UpdateAboutDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.AboutController",
+    "Method": "DeleteAbout",
+    "RelativePath": "api/About/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.AboutController",
+    "Method": "GetAbout",
+    "RelativePath": "api/About/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.BookingController",
+    "Method": "BookingList",
+    "RelativePath": "api/Booking",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.BookingController",
+    "Method": "CreateBooking",
+    "RelativePath": "api/Booking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createBookingDto",
+        "Type": "SignalRDtoLayer.BookingDto.CreateBasketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.BookingController",
+    "Method": "UpdateBooking",
+    "RelativePath": "api/Booking",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateBookingDto",
+        "Type": "SignalRDtoLayer.BookingDto.UpdateBasketDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.BookingController",
+    "Method": "DeleteBooking",
+    "RelativePath": "api/Booking/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.BookingController",
+    "Method": "GetBooking",
+    "RelativePath": "api/Booking/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.BookingController",
+    "Method": "TotalRezervision",
+    "RelativePath": "api/Booking/TotalRezervision",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.BrunchController",
+    "Method": "FeatureGet",
+    "RelativePath": "api/Brunch",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.CategoryController",
+    "Method": "CategoryList",
+    "RelativePath": "api/Category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.CategoryController",
+    "Method": "CreateCategory",
+    "RelativePath": "api/Category",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createCategoryDto",
+        "Type": "SignalRDtoLayer.CategoryDto.CreateCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.CategoryController",
+    "Method": "UpdateCategory",
+    "RelativePath": "api/Category",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateCategoryDto",
+        "Type": "SignalRDtoLayer.CategoryDto.UpdateCategoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.CategoryController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.CategoryController",
+    "Method": "GetCategory",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.CategoryController",
+    "Method": "ActiveCategoryCount",
+    "RelativePath": "api/Category/ActiveCategoryCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.CategoryController",
+    "Method": "CategoryCount",
+    "RelativePath": "api/Category/CategoryCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.CategoryController",
+    "Method": "PassiveCategoryCount",
+    "RelativePath": "api/Category/PassiveCategoryCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ContactController",
+    "Method": "ContactList",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ContactController",
+    "Method": "CreateContact",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createContactDto",
+        "Type": "SignalRDtoLayer.ContactDto.CreateContactDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ContactController",
+    "Method": "UpdateContatc",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateContactDto",
+        "Type": "SignalRDtoLayer.ContactDto.UpdateContactDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ContactController",
+    "Method": "DeleteContact",
+    "RelativePath": "api/Contact/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ContactController",
+    "Method": "GetContact",
+    "RelativePath": "api/Contact/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.DinnerController",
+    "Method": "DinnerGet",
+    "RelativePath": "api/Dinner",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.DiscountController",
+    "Method": "DiscountList",
+    "RelativePath": "api/Discount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.DiscountController",
+    "Method": "CreateDiscount",
+    "RelativePath": "api/Discount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDiscountDto",
+        "Type": "SignalRDtoLayer.DicountDto.CreateDiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.DiscountController",
+    "Method": "UpdateDiscount",
+    "RelativePath": "api/Discount",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateDiscountDto",
+        "Type": "SignalRDtoLayer.DicountDto.UpdateDiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.DiscountController",
+    "Method": "DeleteDiscount",
+    "RelativePath": "api/Discount/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.DiscountController",
+    "Method": "GetDiscount",
+    "RelativePath": "api/Discount/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.FeatureController",
+    "Method": "FeatureGet",
+    "RelativePath": "api/Feature",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.FeatureController",
+    "Method": "CreateFeature",
+    "RelativePath": "api/Feature",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createFeatureDto",
+        "Type": "SignalRDtoLayer.FeatureDto.CreateFeatureDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.FeatureController",
+    "Method": "UpdateFeature",
+    "RelativePath": "api/Feature",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateFeatureDto",
+        "Type": "SignalRDtoLayer.FeatureDto.UpdateFeatureDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.FeatureController",
+    "Method": "DeleteFeature",
+    "RelativePath": "api/Feature/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.FeatureController",
+    "Method": "GetFeature",
+    "RelativePath": "api/Feature/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.LaunchController",
+    "Method": "LaunchGet",
+    "RelativePath": "api/Launch",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.OrdersController",
+    "Method": "ActiveTable",
+    "RelativePath": "api/Orders/ActiveTable",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.OrdersController",
+    "Method": "LastOrderPrice",
+    "RelativePath": "api/Orders/LastOrderPrice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.OrdersController",
+    "Method": "OrderByTodayCount",
+    "RelativePath": "api/Orders/OrderByTodayCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.OrdersController",
+    "Method": "OrderCountTotal",
+    "RelativePath": "api/Orders/OrderCountTotal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.OrdersController",
+    "Method": "SafeByTotalPrice",
+    "RelativePath": "api/Orders/SafeByTotalPrice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.OrdersController",
+    "Method": "TableCount",
+    "RelativePath": "api/Orders/TableCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.OrdersController",
+    "Method": "TotalPriceToday",
+    "RelativePath": "api/Orders/TotalPriceToday",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "ProductList",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createProductDto",
+        "Type": "SignalRDtoLayer.ProductDto.CreateProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateProductDto",
+        "Type": "SignalRDtoLayer.ProductDto.UpdateProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "GetProduct",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "DetailsProduct",
+    "RelativePath": "api/Product/GetCtg/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "ProductCount",
+    "RelativePath": "api/Product/ProductCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "ProductCountByCategoryNameDrink",
+    "RelativePath": "api/Product/ProductCountByCategoryNameDrink",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "ProductCountByCategoryNameHamburger",
+    "RelativePath": "api/Product/ProductCountByCategoryNameHamburger",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "ProductHamburgerAvg",
+    "RelativePath": "api/Product/ProductHamburgerAvg",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "ProductListWithCategory",
+    "RelativePath": "api/Product/ProductListWithCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "ProductNamePriceMax",
+    "RelativePath": "api/Product/ProductNamePriceMax",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ProductController",
+    "Method": "ProductPriceAvg",
+    "RelativePath": "api/Product/ProductPriceAvg",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.SocialMediaController",
+    "Method": "SocialMediaList",
+    "RelativePath": "api/SocialMedia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.SocialMediaController",
+    "Method": "CreateSocialMedia",
+    "RelativePath": "api/SocialMedia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createSocialMediaDto",
+        "Type": "SignalRDtoLayer.SocialMediaDto.CreateSocialMediaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.SocialMediaController",
+    "Method": "UpdateSocialMedia",
+    "RelativePath": "api/SocialMedia",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateSocialMediaDto",
+        "Type": "SignalRDtoLayer.SocialMediaDto.UpdateSocialMediaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.SocialMediaController",
+    "Method": "DeleteSocialMedia",
+    "RelativePath": "api/SocialMedia/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.SocialMediaController",
+    "Method": "GetSocialMedia",
+    "RelativePath": "api/SocialMedia/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.TestimonialController",
+    "Method": "TestimonialList",
+    "RelativePath": "api/Testimonial",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.TestimonialController",
+    "Method": "CreateTestimonial",
+    "RelativePath": "api/Testimonial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createTestimonialDto",
+        "Type": "SignalRDtoLayer.TestimonialDto.CreateTestimonialDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.TestimonialController",
+    "Method": "UpdateTestimonial",
+    "RelativePath": "api/Testimonial",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateTestimonialDto",
+        "Type": "SignalRDtoLayer.TestimonialDto.UpdateTestimonialDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.TestimonialController",
+    "Method": "DeleteTestimonial",
+    "RelativePath": "api/Testimonial/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.TestimonialController",
+    "Method": "GetTestimonial",
+    "RelativePath": "api/Testimonial/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ToDoListsController",
+    "Method": "ToDoListList",
+    "RelativePath": "api/ToDoLists",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ToDoListsController",
+    "Method": "CreateToDoList",
+    "RelativePath": "api/ToDoLists",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createToDoListDto",
+        "Type": "SignalRDtoLayer.ToDoListDto.CreateToDoListDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ToDoListsController",
+    "Method": "UpdateToDoList",
+    "RelativePath": "api/ToDoLists",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateToDoList",
+        "Type": "SignalRDtoLayer.ToDoListDto.UpdateToDoListDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ToDoListsController",
+    "Method": "DeleteToDoList",
+    "RelativePath": "api/ToDoLists/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ToDoListsController",
+    "Method": "GetToDoList",
+    "RelativePath": "api/ToDoLists/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRApi.Controllers.ToDoListsController",
+    "Method": "ToDoMinute",
+    "RelativePath": "api/ToDoLists/ToDoMinute",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

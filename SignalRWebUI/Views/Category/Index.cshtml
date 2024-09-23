@@ -1,0 +1,68 @@
+﻿@model List<SignalRWebUI.Dtos.CategoryDto.ResultCategoryDto>
+@{
+   ViewData["Title"] = "Index";
+   Layout = "~/Views/AdminLayout/Index.cshtml";
+   int count = 0;
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="content">
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="card">
+               <div class="card-header">
+                  <div class="card-title">Kategori Listesi</div>
+               </div>
+               <div class="card-body">
+                  <div class="card-sub">
+                     Kategori ile ilgili İşlemler :
+                  </div>
+                  <table class="table mt-3">
+                     <thead>
+                        <tr>
+                           <th scope="col">#</th>
+                           <th scope="col">Kategori Adı</th>
+                           <th scope="col">Durum</th>
+                           <th scope="col" class="d-flex justify-content-center">İşlemler</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        @foreach (var item in Model)
+                        {
+                           count++;
+                           <tr>
+                              <th>@count</th>
+                              <td>@item.CategoryName</td>
+                              <td>
+                                 @{
+                                    var Durum = item.CategoryStatus == true ? "Aktif" : "Pasif";
+                                 }
+                                 @Durum
+                              </td>
+                              <td class="d-flex justify-content-center">
+
+                                 <a href="/Category/DeleteCategory/@item.CategoryID" class="btn fw-bold" title="Sil">
+                                    <i class="fa fa-trash-o" style="font-size:24px"></i>
+                                 </a>
+
+                                 <a href="/Category/UpdateCategory/@item.CategoryID" class="btn fw-bold" title="Düzelt">
+                                    <i class="fa fa-pencil" style="font-size:24px"></i>
+                                 </a>
+
+                                 <a href="/Category/DetailsCategory/@item.CategoryID" class="btn fw-bold" title="Detay">
+                                    <i class="fa fa-eye" style="font-size:24px"></i>
+                                 </a>
+
+                              </td>
+                           </tr>
+                        }
+                     </tbody>
+                  </table>
+                  <a href="/Product/CreateProduct/" class="btn btn-info w-100 fw-bold " style=" letter-spacing:5px">Yeni Kategori Ekle</a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>

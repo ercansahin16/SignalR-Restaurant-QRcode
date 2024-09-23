@@ -1,0 +1,68 @@
+﻿@model SignalRWebUI.Dtos.ProductsDto.CreateProductDto
+@{
+    ViewData["Title"] = "CreateProduct";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="content">
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-md-12">
+            <form method="post">
+               <div class="card">
+                  <div class="card-header">
+
+                     @* Geri Dön Tuşu *@
+                     <div style="margin-bottom: 30px">
+                        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                        <a href="/Product/Index/">
+                           <i class="fa fa-chevron-left " style="font-size:18px"><span class="mx-3">Geri Dön</span> </i>
+                        </a>
+                     </div>
+
+
+
+
+
+                     <div class="card-title">Yeni Ürün Girişi</div>
+                  </div>
+                  <div class="card-body">
+                     <div class="form-group">
+                        <label for="ProductName">Ürün Adı: </label>
+                        <input type="text" class="form-control" id="email" name="ProductName">
+                     </div>
+
+                     <div class="form-group">
+                        <label for="Price">Fiyat Bilgisi: </label>
+                        <input type="text" class="form-control" id="email" name="Price">
+                     </div>
+                  
+
+
+                     <div class="form-group">
+                        <label for="ImageUrl">Ürün Kategorisini Seçin: </label>
+                        @Html.DropDownListFor(x=>x.CategoryID,(List<SelectListItem>)ViewBag.v,new{ @class="form-control"})
+
+                     <div class="form-group">
+                        <label for="ImageUrl">Resim URL Bilgisi: </label>
+                        <input type="text" class="form-control" id="email" name="ImageUrl">
+                     </div>
+
+                     <div class="form-group">
+                        <label for="Description">Açıklama Bilgisi: </label>
+                        <input type="text" class="form-control" id="email" name="Description">
+                     </div>
+
+
+
+                     <button class="btn btn-info w-100 fw-bold " style=" letter-spacing:5px">Yeni Ürün Ekle</button>
+                     <br /> <br />
+
+                  </div>
+               </div>
+            </form>
+
+         </div>
+      </div>
+   </div>
+</div>
