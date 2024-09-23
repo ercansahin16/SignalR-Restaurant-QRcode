@@ -18,3 +18,13 @@ Through this project, we have built a more organized, manageable, and high-perfo
 
 ![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/1.png?raw=true)<br><br>
 ![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/2.png?raw=true)<br><br>
+![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/3(1).png?raw=true)<br><br>
+![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/3(2).png?raw=true)<br><br>
+
+![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/3(3).png?raw=true)<br><br>
+![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/3(4).png?raw=true)<br><br>
+
+![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/3(5).png?raw=true)<br><br>
+![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/3(6).png?raw=true)<br><br>
+
+![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/3(7).png?raw=true)<br><br>
