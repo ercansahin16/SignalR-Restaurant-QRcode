@@ -16,5 +16,5 @@ Controllers (For managing API requests)
 Through this project, we have built a more organized, manageable, and high-performance structure. It provides fast and effective solutions for both restaurant management and users, with real-time data updates and a multi-layered architecture as the main features.
 
 
-![Açıklayıcı Alt Metin](https://https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/1.png)<br><br>
-![Açıklayıcı Alt Metin](https://https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/2.png)<br><br>
+![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/1.png?raw=true)<br><br>
+![Açıklayıcı Alt Metin](https://github.com/ercansahin16/SignalR-Restaurant-QRcode/blob/main/Screenimg/2.png?raw=true)<br><br>
